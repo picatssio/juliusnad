@@ -4,7 +4,7 @@
 <h2>📫 How to reach me:</h2>
 <ul>
   <li>🛠✉️ Email - hi@juliusnad.com</li>
-  <li>💻Social - <a href="https://twitter.com/mrjuliussss">Twitter</a></li>
+  <li>💻 - <a href="https://twitter.com/mrjuliussss" target="_blank">Twitter</a></li>
 </ul>
 
 <!--
