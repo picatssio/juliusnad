@@ -3,8 +3,8 @@
 <p>My Name is Julius 😎 and I am a front end developer 🖥 <em>or think that I am one</em> ✌️😁</p>
 <h2>📫 How to reach me:</h2>
 <ul>
-  <li>🛠✉️ Email - hi@juliusnad.com</li>
-  <li>💻 - <a href="https://twitter.com/mrjuliussss" target="_blank">Twitter</a></li>
+  <li><a href="mailto:hi@juliusnad.com">Email</a></li>
+  <li><a href="https://www.twitter.com/mrjuliussss" target="_blank">Twitter</a> </li>
 </ul>
 
 <!--
