@@ -3,8 +3,10 @@
 <p>My Name is Julius 😎 and I am a front end developer <em>or think that I am one</em> ✌️😁</p>
 <h2>📫 How to reach me:</h2>
 <ul>
-  <li>email - hi@juliusnad.com</li>
+  <li>Email - hi@juliusnad.com</li>
+  <li>Social - @mrjuliussss</li>
 </ul>
+
 <!--
 **juliusnad/juliusnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
