@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>Hi there</h1>
+<h1><b>Hi there 👋</b></h1>
 <!--
 **juliusnad/juliusnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
