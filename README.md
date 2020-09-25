@@ -1,10 +1,10 @@
 <h1><b>Hi there 👋</b></h1>
 <br>
-<p>My Name is Julius 😎 and I am a front end developer <em>or think that I am one</em> ✌️😁</p>
+<p>My Name is Julius 😎 and I am a front end developer 🖥 <em>or think that I am one</em> ✌️😁</p>
 <h2>📫 How to reach me:</h2>
 <ul>
-  <li>Email - hi@juliusnad.com</li>
-  <li>Social - @mrjuliussss</li>
+  <li>🛠✉️ Email - hi@juliusnad.com</li>
+  <li>💻Social - <a href="https://twitter.com/mrjuliussss">Twitter</a></li>
 </ul>
 
 <!--
