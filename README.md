@@ -1,7 +1,7 @@
 <h1><b>Hi there 👋</b></h1>
 <br>
 <p>My Name is Julius 😎 and I am a front end developer 🖥 <em>or think that I am one</em> ✌️😁</p>
-<h2>📫 How to reach me:</h2>
+<h2>📫 How to reach me</h2>
 <ul>
   <li><a href="mailto:hi@juliusnad.com">Email</a></li>
   <li><a href="https://www.twitter.com/mrjuliussss" target="_blank">Twitter</a> </li>
