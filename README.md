@@ -1,4 +1,6 @@
 <h1><b>Hi there 👋</b></h1>
+<hr>
+<p>My Name is Julius 😎 and I am a front end developer in other words think that I am ✌️😁</p>
 <!--
 **juliusnad/juliusnad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
