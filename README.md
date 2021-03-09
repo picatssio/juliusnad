@@ -4,7 +4,7 @@
 <h2>📫 How to reach me</h2>
 <ul>
   <li><a href="mailto:hi@juliusnad.com">Email</a></li>
-  <li><a href="https://www.twitter.com/mrjuliussss" target="_blank">Twitter</a> </li>
+  <li><a href="https://www.twitter.com/notmrjulius" target="_blank">Twitter</a> </li>
 </ul>
 
 <!--
